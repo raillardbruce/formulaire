@@ -1,0 +1,82 @@
+body {
+    background: linear-gradient(#7C45B7, #6A5FBE, #577FCA, #429DD0, #34B3D8);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.formulaire{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    background-color: #2A2A68;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 3%;
+    border: solid #4E5B9F 3px;
+}
+
+.titre{
+    width: 100%;
+    background-color: #232055;
+    margin-top: 0;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: white;
+    font-family: 'Trebuchet MS';
+    border-radius: 3% 3% 0 0 / 13% 13% 0 0;
+}
+
+.lala{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.lesinputs{
+    margin-bottom: 3%;
+    width: 60%;
+    font-size: large;
+    padding: 2%;
+    font-family: 'Trebuchet MS'
+}
+
+.gogo{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.go{
+    background-color: #60B02C;
+    margin-right: 8%;
+    margin-bottom: 5%;
+    border-radius: 15%;
+    padding: 1%;
+    font-size: large;
+    color: white;
+    border: 0;
+    font-family: 'Trebuchet MS'
+}
+
+.lolo {
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    margin-left: 35%;
+    margin-top: 3%;
+}
+
+.lescheckox{
+    margin-right: 4%;
+}
+
+.txtcheck{
+    color: white;
+    font-size: medium;
+}
